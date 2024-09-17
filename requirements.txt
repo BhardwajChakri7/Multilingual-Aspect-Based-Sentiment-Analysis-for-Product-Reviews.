@@ -1,7 +1,6 @@
-# requirements.txt
 streamlit==1.16.0
 transformers==4.26.0
-torch==2.0.1  # Compatible version
+torch==2.0.1
 spacy==3.5.0
 pandas==1.5.3
 thinc==8.1.7
